@@ -1,0 +1,3 @@
+The makeEmpty function has a time complexity is of O(n). this is beacause as the tree gets bigger the time gets bigger linearly. 
+Since this function doesnt have any nested loops it isnt O(n^2) or O(n^3) every node gets visited once and is deleted, so bigger trees
+get bigger deletion time but it grows at the same rate.  
